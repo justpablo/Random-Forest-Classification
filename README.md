@@ -1,4 +1,4 @@
-# Company: Universitat Politecnica de Catanlunya (UPC)
+## Company: Universitat Politecnica de Catanlunya (UPC)
 # Professor: Miquel Sanchez i Marre
 # Title: Random Forest Classification
 # Author: Pablo Eliseo Reynoso Aguirre
