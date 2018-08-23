@@ -6,8 +6,9 @@
 ### Description: 
                This project recalls the implementation of random forest [2-3] based on CART decision trees (gini-index) [1] to solve
                different classification tasks. In this implemenatation we considered different datasets retrieved from Kaggle:
-               mushrooms dataset [7], sms spam dataset [8], taekwondo dataset [5], zoo dataset [4]. We also considered contact lenses toy set[6] - UPC. In this implementation we also considered data pre processng and shaping, normalization, and text vectorizations
-               tf-idf for feature extractions in the sms spam dataset.
+               mushrooms dataset [7], sms spam dataset [8], taekwondo dataset [5], zoo dataset [4]. We also considered contact lenses
+               toy set[6] - UPC. In this implementation we also considered data pre processng and shaping, normalization, 
+               and text vectorizations tf-idf for feature extractions in the sms spam dataset.
                
 ### References:  
               [1] Matthew N. Bernstein. Random forests. Class Presentation 1, University of Wisconsin - Madison, March 2017.
